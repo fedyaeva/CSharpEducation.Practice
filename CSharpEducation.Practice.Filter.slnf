@@ -3,7 +3,8 @@
     "path": "CSharpEducation.Practice.sln",
     "projects": [
       "Task1A\\Task1A.csproj",
-      "Task1\\Task1.csproj"
+      "Task1\\Task1.csproj",
+      "Task2\\Task2.csproj"
     ]
   }
 }
